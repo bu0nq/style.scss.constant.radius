@@ -1,20 +1,20 @@
 {
-  "name": "@bu0nq/style.scss.constant.radius",
+  "name": "@bu0nq/style.scss.constant.rounded",
   "version": "0.1.0",
-  "description": "Package for integrating Style.SCSS.Constant.Radius",
-  "main": "radius.scss",
+  "description": "Package for integrating Style.SCSS.Constant.Rounded",
+  "main": "rounded.scss",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bu0nq/style.scss.constant.radius.git"
+    "url": "git+https://github.com/bu0nq/style.scss.constant.rounded.git"
   },
   "keywords": [
     "style",
     "scss",
     "constant",
-    "radius"
+    "rounded"
   ],
   "author": {
     "name": "bu0nq",
@@ -22,9 +22,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bu0nq/style.scss.constant.radius/issues"
+    "url": "https://github.com/bu0nq/style.scss.constant.rounded/issues"
   },
-  "homepage": "https://github.com/bu0nq/style.scss.constant.radius#readme",
+  "homepage": "https://github.com/bu0nq/style.scss.constant.rounded#readme",
   "publishConfig": {
     "access": "public"
   }
